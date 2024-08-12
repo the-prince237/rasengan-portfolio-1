@@ -6,7 +6,16 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: "#2A7FFF",
+        primary: "#F1FF9D",
+        primaryLight: "#333431",
+        gray: "#757980",
+        darkGray: "#1F1F1F",
+        black: "#232327",
+        blue: "#233346",
+        blueLight: "#D5E4F4",
+        pink: "#FF2787",
+        pinkLight: "#3F3238",
+
       },
       fontFamily: {
         Aubrey: ["Aubrey", "sans-serif"],
